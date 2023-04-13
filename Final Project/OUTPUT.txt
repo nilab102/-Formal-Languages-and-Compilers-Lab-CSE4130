@@ -1,0 +1,16 @@
+1Xacn420k 
+2Xacn420k 
+3Xacn420k float  x1 = 3.125 ; ; ;
+4Xacn420k 
+5Xacn420k double  f1 ( float  a , int int  x )
+6Xacn420k { if (  x <  x1 )
+7Xacn420k double  z ; ;
+8Xacn420k else  z = 0.01 ; } }
+9Xacn420k else return  z ;
+10Xacn420k }
+11Xacn420k 
+12Xacn420k int  main ( void )
+13Xacn420k { { { {
+14Xacn420k int  n1 ; double  z ;
+15Xacn420k n1 = 25 ; id z =  f1 (  n1 ) ; }
+16Xacn420k 

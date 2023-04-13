@@ -1,0 +1,3 @@
+C:/Users/nilab/Desktop/4.1/Lab 1a/cmake-build-debug/CMakeFiles/Lab_1a.dir
+C:/Users/nilab/Desktop/4.1/Lab 1a/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nilab/Desktop/4.1/Lab 1a/cmake-build-debug/CMakeFiles/rebuild_cache.dir

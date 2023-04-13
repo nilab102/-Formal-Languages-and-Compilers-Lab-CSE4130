@@ -1,0 +1,1 @@
+ [ float ] [ Id 1 ] [ = ] [ 3.125 ] [ ; ] [ double ] [ Id 2 ] [ ( ] [ int ] [ Id 3 ] [ ) ] [ { ] [ double ] [ Id 4 ] [ ; ] [ Id 4 ] [ = ] [ 0.01 ] [ ; ] [ return ] [ Id 4 ] [ ; ] [ } ] [ int ] [ Id 5 ] [ ( ] [ void ] [ ) ] [ { ] [ int ] [ Id 6 ] [ ; ] [ double ] [ Id 7 ] [ ; ] [ Id 6 ] [ = ] [ 25 ] [ ; ] [ Id 7 ] [ = ] [ Id 2 ] [ ( ] [ Id 6 ] [ ) ] [ ; ] [ } ]
